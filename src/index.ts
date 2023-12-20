@@ -881,6 +881,7 @@ export const right = [
     "mohammed",   // Wale Mohammed    - Sr Site Reliability Engineer
     "monroy",     // Monroy Zolano    - IT Support Engineer II
     "mortazavi",  // Ahoura Mortazavi - Technical Support Engineer II
+    "morris",     // Chris Morris     - Sr. Solutions Engineer
     "mullins",    // Justin Mullins   - Sr Site Reliability Engineer
     "mullins",    // Justin Mullins   - Sr. Site Reliability Engineer
     "mungel",     // Nikhil Mungel    - Sr Mgr, Software Engineering
